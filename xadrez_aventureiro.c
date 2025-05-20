@@ -52,5 +52,6 @@ int main () {
         }
         printf("O cavalo andou para esquerda \n");
     }
+    
      
     return 0;
